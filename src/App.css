@@ -1,0 +1,88 @@
+
+*{
+box-sizing: border-box;
+margin: 0;
+}
+
+
+.loading{
+  background-color: white;
+  height: 700px;
+}
+
+.loading img{
+ width:340px;
+ height: 170px;
+margin-top: 200px;
+}
+.bg-light {
+    background-color: #24263bd0!important;
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    margin-top: -8px;
+  }
+     
+@media only screen and (max-width: 672px) {
+  .bg-light{
+    position: relative;
+  } 
+
+
+}
+  @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Dancing+Script:wght@700&family=Fredoka+One&family=Open+Sans+Condensed:ital,wght@1,300&family=Staatliches&display=swap');
+  .logo{
+    
+      font-family: 'Open Sans', sans-serif;
+      font-size: 45px;
+      color: #f4f4f8;
+      font-weight: 900;
+      text-transform: uppercase;
+    margin-left: 200px;
+    margin-right: 70px;
+  }
+  
+  
+  .nav-item{
+    color: #fff!important;
+    font-size: 18px;
+    font-weight: 800px;
+  margin: 18px  7px;
+  font-family: 'Open Sans', sans-serif;
+  }
+  @media only screen and (max-width: 672px) {
+    .nav-item{
+      text-align: center;
+    }
+  }
+  
+  .home{
+    color:#fd6131ed!important;
+    margin-left: 100px;
+    
+  }
+  @media only screen and (max-width: 672px) {
+  .home{
+    color:#ffffffed!important;
+    margin-left: 0px;
+    margin-top: 30px;
+  }
+  }
+  .navbar-light .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+  }
+  .navbar-light .navbar-nav .nav-link:hover {
+    color:#fd6131ed;
+  }
+  .navbar-light .navbar-toggler {
+    color: rgb(255, 255, 255);
+    border-color:#fd6131ed;
+    background-color: rgb(255, 255, 255);
+}
+@media only screen and (max-width: 672px) {
+  .navbar-light .navbar-toggler{
+    margin-top: -70px;
+  }
+}
+  
+  
