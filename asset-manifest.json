@@ -1,15 +1,29 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.fbf8c03c.css",
-    "main.js": "/My-Portfolio/static/js/main.30d2407c.js",
+    "main.js": "/My-Portfolio/static/js/main.f5d45468.js",
+    "static/media/three.png": "/My-Portfolio/static/media/three.c8af1181e0fd101cac90.png",
+    "static/media/two.png": "/My-Portfolio/static/media/two.7ca3e73de6080ba4f4e5.png",
+    "static/media/one.png": "/My-Portfolio/static/media/one.202da6ef46896a0b201f.png",
+    "static/media/four.png": "/My-Portfolio/static/media/four.a54ad888caecb6b1564f.png",
+    "static/media/five.png": "/My-Portfolio/static/media/five.9c01455e3c047c5a1b17.png",
+    "static/media/six.png": "/My-Portfolio/static/media/six.7aabce2342baa514e0c1.png",
+    "static/media/pic3.png": "/My-Portfolio/static/media/pic3.30df5286ceb6622822b8.png",
+    "static/media/pic2.png": "/My-Portfolio/static/media/pic2.d5fe286e58ba72e3f471.png",
     "static/media/Untitled-1.png": "/My-Portfolio/static/media/Untitled-1.eb7da9f26503071e03ea.png",
     "static/media/study.jpg": "/My-Portfolio/static/media/study.822ff3bc364f1d178b68.jpg",
+    "static/media/11.png": "/My-Portfolio/static/media/11.bec88ba1646929427365.png",
+    "static/media/mailz.jpeg": "/My-Portfolio/static/media/mailz.d13d5e32cbc73884b526.jpeg",
+    "static/media/pic1.png": "/My-Portfolio/static/media/pic1.da97c88816571b1dc06b.png",
+    "static/media/pic4.png": "/My-Portfolio/static/media/pic4.e12754ca70b46f8fd877.png",
+    "static/media/logologing.png": "/My-Portfolio/static/media/logologing.4c7f7fc077858b92aebb.png",
+    "static/media/mmee.png": "/My-Portfolio/static/media/mmee.b5de9e8174c7178bc2d1.png",
     "index.html": "/My-Portfolio/index.html",
     "main.fbf8c03c.css.map": "/My-Portfolio/static/css/main.fbf8c03c.css.map",
-    "main.30d2407c.js.map": "/My-Portfolio/static/js/main.30d2407c.js.map"
+    "main.f5d45468.js.map": "/My-Portfolio/static/js/main.f5d45468.js.map"
   },
   "entrypoints": [
     "static/css/main.fbf8c03c.css",
-    "static/js/main.30d2407c.js"
+    "static/js/main.f5d45468.js"
   ]
 }
